@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AccountListDetailActivity">
+<item
+android:id ="@+id/post_a_job"
+android:title="@string/postJob"
+    app:showAsAction="never"
+    android:visible="false"
+
+    />
+    <item
+        android:id="@+id/list_of_companies"
+        android:title="@string/list_of_companies"
+        app:showAsAction="never"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/list_of_companies_with_vacancies_available"
+        android:title="@string/list_of_companies_with_vacancies"
+        app:showAsAction="never"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/list_of_students"
+        android:title="@string/list_of_students"
+        app:showAsAction="never"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/list_of_applied_students"
+        android:title="@string/list_of_applied_students"
+        app:showAsAction="never"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/action_sign_out"
+        android:title="@string/settings_menu_item"
+        app:showAsAction="never"
+        android:visible="true" />
+
+</menu>

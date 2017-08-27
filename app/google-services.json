@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "131736366028",
+    "firebase_url": "https://thecampusrecruitmentsyst-c4a16.firebaseio.com",
+    "project_id": "thecampusrecruitmentsyst-c4a16",
+    "storage_bucket": "thecampusrecruitmentsyst-c4a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131736366028:android:46f233f5bda5da01",
+        "android_client_info": {
+          "package_name": "com.example.harri.thecampusrecruitmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131736366028-v3j93hbal5fmveqjnk8qhflem53u770h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWE5HR2h4TGoeCxHgZXEXoCQto07zFI0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
